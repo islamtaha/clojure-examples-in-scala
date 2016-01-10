@@ -21,6 +21,6 @@ object Closure extends App{
      val output = "(" + x(0).toString() + ", " + x(1).toString() + ")"
        println(output)
   }
-  
+    
   
 }

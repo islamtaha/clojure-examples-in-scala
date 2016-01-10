@@ -5,7 +5,7 @@ import Closure2._
 /**
  * @author eslam
  */
-object Closure extends App {
+object Closure4 extends App {
   type Node[T] = Triple[T]
   
   
