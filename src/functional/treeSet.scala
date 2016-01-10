@@ -1,10 +1,10 @@
-package clojures
-import Clojure4._
+package functional
+import Closure4._
 
 /**
  * @author eslam
  */
-object Clojure5 extends App{
+object Closure5 extends App{
   type Set = Node[Int]
   
   val emptySet = emptyTree

@@ -1,11 +1,11 @@
-package clojures
-import Clojure._
-import Clojure3._
+package functional
+import Closure._
+import Closure3._
 
 /**
  * @author eslam
  */
-object Clojure6 extends App {
+object Closure6 extends App {
   type Set[T] = Pair[T]
   
   val emptySet = nil

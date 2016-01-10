@@ -1,9 +1,9 @@
-package clojures
+package functional
 
 /**
  * @author eslam
  */
-object Clojure extends App{
+object Closure extends App{
   
   type Pair[+T] = Int => T
   

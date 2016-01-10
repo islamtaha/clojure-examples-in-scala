@@ -1,11 +1,11 @@
-package clojures
+package functional
 
-import Clojure._
-import Clojure2._
+import Closure._
+import Closure2._
 /**
  * @author eslam
  */
-object Clojure4 extends App {
+object Closure extends App {
   type Node[T] = Triple[T]
   
   

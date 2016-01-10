@@ -1,11 +1,11 @@
-package clojures
+package functional
 
-import Clojure._
+import Closure._
 
 /**
  * @author eslam
  */
-object Clojure3 extends App{
+object Closure3 extends App{
   
   def nil() = { null }
   

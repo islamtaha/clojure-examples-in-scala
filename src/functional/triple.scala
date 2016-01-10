@@ -1,10 +1,10 @@
-package clojures
+package functional
 
-import Clojure._
+import Closure._
 /**
  * @author eslam
  */
-object Clojure2 extends App{
+object Closure2 extends App{
    
   type Triple[T] = Pair[Pair[T]]
   
